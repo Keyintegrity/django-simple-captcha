@@ -28,4 +28,4 @@ msgstr "Неверный ответ"
 
 #: tests/__init__.py:88
 msgid "This field is required."
-msgstr "Это поле обязательно для заполнения."
+msgstr ""
